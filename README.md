@@ -6,6 +6,6 @@ Selenium Java Automation Framework using TestNG
 - Selenium
 - TestNG
 - Maven
-- 
+
 #Author
 Rahul Rajan
