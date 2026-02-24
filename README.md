@@ -1,4 +1,4 @@
-# selenium-java-automation
+## Selenium-java-automation
 Selenium Java Automation Framework using TestNG
 
 ## Tech Stack
@@ -7,5 +7,5 @@ Selenium Java Automation Framework using TestNG
 - TestNG
 - Maven
 
-#Author
+##Author
 Rahul Rajan
